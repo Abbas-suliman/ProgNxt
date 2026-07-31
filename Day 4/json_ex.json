@@ -1,0 +1,11 @@
+{
+  "name": "Ajantha",
+  "country": "india",
+  "skill": [
+    "python",
+    "ML",
+    "NLP",
+    "CV"
+  ],
+  "Age": 99
+}

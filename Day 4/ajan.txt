@@ -1,0 +1,6 @@
+Some wiki implementations keep a record of changes made to wiki pages 
+hese stores are typically presented for each page in a lis
+keep a record of changes made to wiki pages 
+presented for each page in a lis
+implementations keep a record of changes made to wiki pages 
+are typically presented for each page in a lis
