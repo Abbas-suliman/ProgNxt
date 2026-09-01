@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "roads",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "road_id": "R01", "road_name": "Anna Road", "road_type": "arterial", "lanes": 4 }, "geometry": { "type": "LineString", "coordinates": [ [ 80.25, 13.05 ], [ 80.27, 13.083 ], [ 80.3, 13.1 ] ] } },
+{ "type": "Feature", "properties": { "road_id": "R02", "road_name": "OMR", "road_type": "arterial", "lanes": 6 }, "geometry": { "type": "LineString", "coordinates": [ [ 80.22, 12.98 ], [ 80.26, 13.01 ], [ 80.3, 13.03 ], [ 80.36, 13.06 ] ] } },
+{ "type": "Feature", "properties": { "road_id": "R03", "road_name": "Mount Road", "road_type": "arterial", "lanes": 4 }, "geometry": { "type": "LineString", "coordinates": [ [ 80.24, 13.03 ], [ 80.27, 13.06 ], [ 80.31, 13.09 ] ] } },
+{ "type": "Feature", "properties": { "road_id": "R04", "road_name": "Inner Ring Road", "road_type": "collector", "lanes": 4 }, "geometry": { "type": "LineString", "coordinates": [ [ 80.23, 13.11 ], [ 80.27, 13.1 ], [ 80.32, 13.12 ] ] } },
+{ "type": "Feature", "properties": { "road_id": "R05", "road_name": "GST Road", "road_type": "highway", "lanes": 6 }, "geometry": { "type": "LineString", "coordinates": [ [ 80.18, 12.95 ], [ 80.23, 12.97 ], [ 80.3, 13.0 ], [ 80.38, 13.02 ] ] } }
+]
+}

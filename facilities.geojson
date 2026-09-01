@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "facilities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "facility_id": "F01", "facility": "Hospital", "capacity": 250 }, "geometry": { "type": "Point", "coordinates": [ 80.2707, 13.0827 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F02", "facility": "School", "capacity": 800 }, "geometry": { "type": "Point", "coordinates": [ 80.28, 13.095 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F03", "facility": "Police Station", "capacity": 120 }, "geometry": { "type": "Point", "coordinates": [ 80.25, 13.11 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F04", "facility": "Fire Station", "capacity": 90 }, "geometry": { "type": "Point", "coordinates": [ 80.315, 13.06 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F05", "facility": "Hospital", "capacity": 180 }, "geometry": { "type": "Point", "coordinates": [ 80.35, 13.145 ] } },
+{ "type": "Feature", "properties": { "facility_id": "F06", "facility": "School", "capacity": 650 }, "geometry": { "type": "Point", "coordinates": [ 80.22, 13.17 ] } }
+]
+}
